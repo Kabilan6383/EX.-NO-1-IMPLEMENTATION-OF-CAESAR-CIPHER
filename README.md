@@ -46,7 +46,7 @@ void decode(char *str, int offset, char *result) {
 }
 
 int main() {
-    char msg[] = "Hello welcome to Security Laboratory";
+    char msg[] = "KABILAN";
     char encoded[256];
     char decoded[256];
     
@@ -65,7 +65,8 @@ int main() {
 
 ## OUTPUT:
 
-<<img width="1450" height="694" alt="Screenshot 2025-09-18 093221" src="https://github.com/user-attachments/assets/f832b0df-cdd3-4d83-8bfb-6e6c6928dd2f" />
+<img width="1342" height="702" alt="image" src="https://github.com/user-attachments/assets/8156721b-0ffe-44c2-8773-47d1d108f809" />
+
 
 
 
